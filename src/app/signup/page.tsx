@@ -1,5 +1,5 @@
-import Social from '@/Components/Login/Social';
-import Infos from '@/Components/signup/Infos';
+import Social from '@/Components/Social';
+import Infos from '@/Components/Infos';
 import Link from 'next/link';
 
 export default function Home() {

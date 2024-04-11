@@ -29,7 +29,7 @@ export default function Login() {
         </Link>
       </div>
       <div className='w-full h-48px'>
-        <button className='w-full h-[40px] cursor-pointer [border:none] py-2.5 px-5 bg-main-orange self-stretch rounded-radius-rounded-md flex flex-row items-center justify-center gap-[8px] text-white font-bold'>
+        <button className='w-full h-[40px] cursor-pointer [border:none] py-2.5 px-5 bg-orange-600 self-stretch rounded-radius-rounded-md flex flex-row items-center justify-center gap-[8px] text-white font-bold'>
           ENTRAR
         </button>
       </div>

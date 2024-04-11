@@ -35,7 +35,7 @@ export default function Infos() {
           <b>Política de Comunicação Eletrônica</b>
         </div>
       </div>
-      <button className="cursor-pointer [border:none] py-2.5 px-5 bg-main-orange self-stretch rounded-radius-rounded-md flex flex-row items-center justify-center gap-[8px]">
+      <button className="cursor-pointer [border:none] py-2.5 px-5 bg-orange-600 self-stretch rounded-radius-rounded-md flex flex-row items-center justify-center gap-[8px]">
         <img
           className="h-4 w-4 relative overflow-hidden shrink-0 hidden"
           alt=""

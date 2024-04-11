@@ -1,5 +1,5 @@
-import Login from '@/Components/Login/Login';
-import Social from '@/Components/Login/Social';
+import Login from '@/Components/Login';
+import Social from '@/Components/Social';
 
 export default function Home() {
   return (
