@@ -35,20 +35,13 @@ export default function Infos() {
           <b>Política de Comunicação Eletrônica</b>
         </div>
       </div>
-      <button className="cursor-pointer [border:none] py-2.5 px-5 bg-orange-600 self-stretch rounded-radius-rounded-md flex flex-row items-center justify-center gap-[8px]">
+      <button className="cursor-pointer text-white font-bold [border:none] py-2.5 px-5 bg-orange-600 self-stretch rounded-radius-rounded-md flex flex-row items-center justify-center gap-[8px]">
         <img
           className="h-4 w-4 relative overflow-hidden shrink-0 hidden"
           alt=""
           src="/badgecheck.svg"
         />
-        <b className="relative text-sm leading-[20px] inline-block font-inter text-text-text-primary-foreground text-left min-w-[89px]">
           CADASTRAR
-        </b>
-        <img
-          className="h-4 w-4 relative overflow-hidden shrink-0 hidden"
-          alt=""
-          src="/badgecheck.svg"
-        />
       </button>
     </div>
   )
