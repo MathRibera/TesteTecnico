@@ -4,7 +4,7 @@ import React from 'react'
 export default function Social(props: { text: string }) {
   return (
     <section
-    className='w-[375px] md:w-[490px] h-[80px] gap-6 box-border border-t-[1px] border-solid border-aliceblue'
+      className='w-[375px] md:w-[490px] h-[80px]'
       >
         <div
           className='flex justify-center gap-4 w-full h-48px items-center'

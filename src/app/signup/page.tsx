@@ -9,9 +9,8 @@ export default function Home() {
         Sign up
       </h1>
       <div className='w-[491px] hidden max-w-full' />
-      <div className='w-[490px] flex flex-col items-start justify-start gap-[32px] max-w-full text-left text-[16px] mq675:gap-[16px]'>
+      <div className='w-[375px] md:w-[490px] flex flex-col items-start justify-start gap-[32px] max-w-full text-left text-[16px] mq675:gap-[16px]'>
         <form className='m-0 self-stretch flex flex-col items-center justify-center gap-[16px] max-w-full'>
-
           <Infos />
         </form>
         <Social text='Registrar' />
